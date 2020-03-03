@@ -14,3 +14,22 @@
     font-size: 30px;
 
 }
+.bodylan {
+    background-color: darkslategrey;
+}
+
+.plan {
+    color: lightgoldenrodyellow;
+}
+
+.headerlan {
+    color: orange;
+    text-align: center
+}
+
+.headerlan2 {
+    color: orange;
+}
+.alan{
+    text-decoration:none;
+}
