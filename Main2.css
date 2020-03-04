@@ -14,6 +14,7 @@
     font-size: 30px;
 
 }
+<<<<<<< HEAD:Main.css
 
 .bodylan {
     background-color: darkslategrey;
@@ -112,4 +113,8 @@ h1.canter-header {
 
 .fav-color2 {
     color:lightblue;
+=======
+#david {
+  font-size: 40px;
+>>>>>>> david:Main2.css
 }
