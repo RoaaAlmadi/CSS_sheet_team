@@ -64,7 +64,7 @@
 
 .flex-container-roaa {
     display: flex;
-    background-color:bisque;
+    background-color:black;
     justify-content: space-around;
 }
 
@@ -81,8 +81,7 @@
 }
 
 .decoration {
-    text-decoration:wavy;
-    color:gold;
+    text-decoration:none;
 }
 
 h1.canter-header {
