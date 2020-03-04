@@ -1,7 +1,6 @@
+/* This is the global css for the nav bar
+   - do not replicate in your css */
 
-/* This is the css for the nav bar */
-
-<<<<<<< HEAD
 .flex-container {
     display: flex;
     background-color:black;
@@ -15,6 +14,12 @@
     font-size: 30px;
 }
 
+/* moj's CSS */
+
+
+/* David's CSS */
+
+
 /* Gervan's CSS */
 .gervan {
   font-family: 'Montserrat',sans-serif;
@@ -25,6 +30,7 @@
 }
 .underline {
   text-decoration: underline;
+  color: darkblue;
 }
 .top-container {
   background-color: #e4f9f5;
@@ -58,21 +64,21 @@
       font-size: 16px;
       font-weight: bold;
   }
-=======
+
 .flex-container {
     display: flex;
     background-color:black;
     justify-content: space-around;
 }
 .flex-container > div {
-    margin: 10px 0px 10px 10px;
+    margin: 10px 0 10px 10px;
     border-radius: 20px;
     padding: 10px;
     background-color: azure;
     font-size: 30px;
-
 }
 
+/* Lalaantika's CSS */
 .bodylan {
     background-color: darkslategrey;
 }
@@ -81,40 +87,43 @@
     color: lightgoldenrodyellow;
 }
 
-.button-aus {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-}
-.button2-aus {
-    background-color: white;
-    color: black;
-    border: 2px solid #008CBA;
-}
-
-
+/* Aus's CSS */
+  .button-aus {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+  }
+  .button2-aus {
+      background-color: white;
+      color: black;
+      border: 2px solid #008CBA;
+  }
     .flex-container-aus > div {
-        margin: 10px 0px 10px 10px;
+        margin: 10px 0 10px 10px;
         border-radius: 20px;
         padding: 10px;
         background-color: azure;
         font-size: 30px;
     }
-
-
     .button2-aus:hover {
         background-color: #008CBA;
         color: white;
     }
+
 .button3-aus {
     border-radius: 40%;
 }
->>>>>>> b617258a78ace06f24587b0de2a175b90c56a045
+
+  .button3-aus {
+      border-radius: 40%;
+  }
+
+/* Roaa's CSS */
