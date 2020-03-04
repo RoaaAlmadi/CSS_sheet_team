@@ -14,3 +14,71 @@
     font-size: 30px;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Moj's part*/
+#moj-banner {
+    height: 660px;
+    object-fit:cover;
+    background-image: url('images/moj-banner.jpg');
+    display: flex;
+    width: 100%;
+    background-size: cover;
+    flex-direction: column;
+    padding-left: 24px;
+}
+#moj-h1 {
+    font-size: 128px;
+}
+#moj-h3 {
+    font-size: 76px;
+}
+#highlights {
+    padding: 24px;
+}
+#moj-h4 {
+    color: cornflowerblue;
+    font-family: monospace;
+    font-size: 56px;
+}
+#moj-ul > li {
+    margin-bottom: 18px;
+   font-family: monospace;
+    font-size: 24px;
+}
