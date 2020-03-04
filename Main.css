@@ -1,0 +1,115 @@
+
+/* This is the css for the nav bar */
+
+.flex-container {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
+}
+.flex-container > div {
+    margin: 10px 0px 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+
+}
+
+.bodylan {
+    background-color: darkslategrey;
+}
+
+.plan {
+    color: lightgoldenrodyellow;
+}
+
+.headerlan {
+    color: orange;
+    text-align: center
+}
+
+.headerlan2 {
+    color: orange;
+}
+.alan{
+    text-decoration:none;
+}
+
+
+.flex-container-aus {
+	display: flex;
+	background-color: blue;
+}
+
+	.flex-container-aus > div {
+		margin: 10px;
+		padding: 10px;
+		background-color: blueviolet;
+		font-size: 30px
+	}
+.flex-container-aus {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+
+    .flex-container-aus > div {
+        margin: 10px 0px 10px 10px;
+        border-radius: 20px;
+        padding: 10px;
+        background-color: azure;
+        font-size: 30px;
+    }
+
+
+.flex-container-roaa {
+    display: flex;
+    background-color:bisque;
+    justify-content: space-around;
+}
+
+.flex-container-roaa > div {
+    margin: 10px 0px 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
+
+.body-roaa {
+    background-color:lightcoral;
+}
+
+.decoration {
+    text-decoration:wavy;
+    color:gold;
+}
+
+h1.canter-header {
+    color: gold;
+    text-align: center;
+}
+
+.size {
+    font-size: 300%;
+}
+
+.size2 {
+    font-size: 250%;
+}
+
+.size3 {
+    font-size: 150%;
+}
+
+.fav-color{
+    color:lavenderblush;
+}
+
+.alignment {
+    text-align: center;
+}
+
+.fav-color2 {
+    color:lightblue;
+}
