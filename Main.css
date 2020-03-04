@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* This is the css for the nav bar */
 
@@ -15,44 +16,24 @@
 
 }
 
+=======
+/* This is the global css for the nav bar
+   - do not replicate in your css */
 
+.flex-container {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
+}
+.flex-container > div {
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Moj's part*/
+/* moj's CSS */
 #moj-banner {
     height: 660px;
     object-fit:cover;
@@ -82,3 +63,164 @@
    font-family: monospace;
     font-size: 24px;
 }
+
+/* David's CSS */
+
+
+/* Gervan's CSS */
+.gervan {
+  font-family: 'Montserrat',sans-serif;
+  font-family: fantasy;
+}
+.gervan_row {
+    text-decoration: none;
+}
+.underline {
+  text-decoration: underline;
+  color: darkblue;
+}
+.top-container {
+  background-color: #e4f9f5;
+  margin: 0;
+  text-align: center;
+  border-style: double;
+}
+.mid-container {
+  font-family: cursive;
+  text-align: center;
+}
+  .tables {
+    border-style: groove;
+    background-color: orange;
+  }
+.bottom-container {
+  background-color: cornflowerblue;
+  padding: 20px;
+  text-align: center;
+  border-style: groove;
+  width: 20%;
+  display: inline-block;
+}
+  .button1 {
+      background-color:lightblue;
+      border-color: black;
+      border-radius: 50%;
+      color: darkblue;
+      padding: 10px 10px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+  }
+
+.flex-container {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
+}
+.flex-container > div {
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
+
+/* Lalaantika's CSS */
+.bodylan {
+    background-color: darkslategrey;
+}
+
+.plan {
+    color: lightgoldenrodyellow;
+}
+
+.headerlan {
+    color: orange;
+    text-align: center
+}
+
+.headerlan2 {
+    color: orange;
+}
+.alan{
+    text-decoration:none;
+}
+
+
+/* Aus's CSS */
+  .button-aus {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+  }
+  .button2-aus {
+      background-color: white;
+      color: black;
+      border: 2px solid #008CBA;
+  }
+    .flex-container-aus > div {
+        margin: 10px 0 10px 10px;
+        border-radius: 20px;
+        padding: 10px;
+        background-color: azure;
+        font-size: 30px;
+    }
+    .button2-aus:hover {
+        background-color: #008CBA;
+        color: white;
+    }
+
+/*Roaa css*/
+.flex-container-roaa {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
+}
+
+.flex-container-roaa > div {
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
+
+.body-roaa {
+    background-color:lightcoral;
+}
+
+.decoration {
+    text-decoration:none;
+}
+
+h1.canter-header {
+    color: gold;
+    text-align: center;
+}
+
+.size {
+    font-size: 300%;
+}
+
+.size2 {
+    font-size: 250%;
+}
+
+.size3 {
+    font-size: 150%;
+}
+
+.fav-color {
+    color: lavenderblush;
+}
+
+
+>>>>>>> devolp
