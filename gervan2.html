@@ -2,7 +2,10 @@
 <html>
   <head>
     <title>Gervan's Page</title>
-    <style media="screen">
+      <title>Team Page</title>
+      <link rel="stylesheet" type="text/css" href="main.css"/>
+  </head>
+    <style>
       body {
         font-family: 'Merriweather',sans-serif;
       }
@@ -10,97 +13,73 @@
         text-align: center;
         color: darkblue;
       }
-      .underline {
-        text-decoration: underline;
-      }
-      .top-container {
-        background-color: #e4f9f5;
-        color: black;
-        margin: 0;
-        text-align: center;
-        border-style: double;
-      }
-        .circle {
-          border-radius: 100%;
-          border-style: dotted;
-          margin: 0 auto 30px auto;
-          width: 20%;
-        }
-      .mid-container {
-        font-family: cursive;
-      }
-        .tables {
-          border-style: groove;
-          background-color: lightyellow;
-        }
-        ol, ul{
-          display: inline-block;
-        }
-      .bottom-container {
-        background-color: #e4f9f5;
-        padding: 25px;
-        text-align: center;
-        border-style: groove;
-      }
-        .button1 {
-            background-color:cyan;
-            color: darkblue;
-            padding: 10px 10px;
-            text-align: center;
-            font-size: 16px;
-        }
+
     </style>
   </head>
-  <body>
-    <div class="top-container">
-      <h1>I'm Gervan.</h1>
-      <img class="circle" src="images/gervan.jpg" alt="gervan">
-      <h2>a <span class="underline">new</span> developer.</h2>
-    </div>
+  <body> <!-- This is for the header of the page -->
+      <div class="flex-container">
+          <div class="moj">
+              Moj
+          </div>
+          <div class="lalaantika">
+              Lalaantika
+          </div>
+          <div class="gervan_row">
+             <a href="gervan2.html">Gervan</a>
+          </div>
+          <div class="aus">
+              Aus
+          </div>
+          <div class="roaa">
+              Roaa
+          </div>
+          <div class="drtom">
+              Dr Tom
+          </div>
+          <div class="david">
+              David
+          </div>
 
-    <div class="mid-container">
-      <h2 class="underline"><b>What I've learned:</b></h2>
-        <h3>Tables</h3>
-      <table class="tables">
-        <tr>
-          <th>Module</th>
-          <th>Ranking</th>
-        </tr>
-        <tr>
-          <td>Project Management</td>
-          <td>😆😆😆</td>
-        </tr>
-        <tr>
-          <td>Introduction to PC & Mac</td>
-          <td>😁😁😁😁</td>
-        </tr>
-        <tr>
-          <td>Source version Control</td>
-          <td>🙃🙃🙃🙃🙃</td>
-        </tr>
-      </table>
-      <hr>
-      <h3>Lists</h3>
-        <p>Ordered & Un-Ordered</p>
-        <ol>
-          <li>one</li>
-          <li>two</li>
-          <li>three</li>
-        </ol>
-        <ul>
-          <li>first</li>
-          <li>second</li>
-          <li>third</li>
-        </ul>
+      </div><!-- This is for my page work -->
+      <div class="top-container gervan">
+        <h1>Hello Developers ...</h1>
+        <h2>Today is a <span class="underline">new</span> day to code.</h2>
+      </div>
+
+      <div class="mid-container">
+        <h2 class="underline gervan"><b>What we've learned:</b></h2>
+        <table class="tables gervan">
+          <tr>
+            <th>Lessons</th>
+            <th>Ranking</th>
+            <th>Comments</th>
+          </tr>
+          <tr>
+            <td>HTML</td>
+            <td>😁😁😁😁</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>CSS</td>
+            <td>😁😁😁</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Flex boxes</td>
+            <td>🙃🙃🙃🙃</td>
+            <td></td>
+          </tr>
+        </table>
         <hr>
-      <h3>and so much more to come ...</h3>
-      <hr>
-    </div>
 
-    <div class="bottom-container">
-      <form action="aus.html">
-          <input class="button1" type="submit" value="Go to Aus's Page"/>
-      </form>
-    </div>
+        <h3>and so much more to come ...</h3>
+        <hr>
+      </div>
+
+      <div class="bottom-container">
+        <form action="https://google.com">
+            <input class="button1" type="submit" value="Google It!"/>
+        </form>
+      </div>
   </body>
 </html>
