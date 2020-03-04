@@ -48,9 +48,9 @@
   display: inline-block;
 }
   .button1 {
-      background-color:cyan;
+      background-color:lightblue;
       border-color: black;
-      border-radius: 100%;
+      border-radius: 50%;
       color: darkblue;
       padding: 10px 10px;
       text-align: center;
