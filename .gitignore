@@ -1,2 +1,4 @@
-
-*.sqlite
+.json
+.config
+.suo
+.sqlite
