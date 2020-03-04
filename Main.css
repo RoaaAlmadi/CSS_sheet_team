@@ -87,6 +87,19 @@
     color: lightgoldenrodyellow;
 }
 
+.headerlan {
+    color: orange;
+    text-align: center
+}
+
+.headerlan2 {
+    color: orange;
+}
+.alan{
+    text-decoration:none;
+}
+
+
 /* Aus's CSS */
   .button-aus {
       background-color: #4CAF50; /* Green */
