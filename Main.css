@@ -1,21 +1,3 @@
-
-/* This is the css for the nav bar */
-
-.flex-container {
-    display: flex;
-    background-color:black;
-    justify-content: space-around;
-}
-.flex-container > div {
-    margin: 10px 0px 10px 10px;
-    border-radius: 20px;
-    padding: 10px;
-    background-color: azure;
-    font-size: 30px;
-
-}
-
-
 /* This is the global css for the nav bar
    - do not replicate in your css */
 
@@ -220,4 +202,3 @@ h1.canter-header {
 .fav-color {
     color: lavenderblush;
 }
-
