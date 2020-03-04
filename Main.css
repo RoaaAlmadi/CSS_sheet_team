@@ -1,7 +1,5 @@
 
 /* This is the css for the nav bar */
-
-<<<<<<< HEAD
 .flex-container {
     display: flex;
     background-color:black;
@@ -58,20 +56,6 @@
       font-size: 16px;
       font-weight: bold;
   }
-=======
-.flex-container {
-    display: flex;
-    background-color:black;
-    justify-content: space-around;
-}
-.flex-container > div {
-    margin: 10px 0px 10px 10px;
-    border-radius: 20px;
-    padding: 10px;
-    background-color: azure;
-    font-size: 30px;
-
-}
 
 .bodylan {
     background-color: darkslategrey;
@@ -99,8 +83,6 @@
     color: black;
     border: 2px solid #008CBA;
 }
-
-
     .flex-container-aus > div {
         margin: 10px 0px 10px 10px;
         border-radius: 20px;
@@ -108,8 +90,6 @@
         background-color: azure;
         font-size: 30px;
     }
-
-
     .button2-aus:hover {
         background-color: #008CBA;
         color: white;
@@ -117,4 +97,3 @@
 .button3-aus {
     border-radius: 40%;
 }
->>>>>>> b617258a78ace06f24587b0de2a175b90c56a045
