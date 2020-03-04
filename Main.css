@@ -131,8 +131,7 @@
         color: white;
     }
 
-<<<<<<< HEAD
-
+/*Roaa css*/
 .flex-container-roaa {
     display: flex;
     background-color:black;
@@ -140,7 +139,7 @@
 }
 
 .flex-container-roaa > div {
-    margin: 10px 0px 10px 10px;
+    margin: 10px 0 10px 10px;
     border-radius: 20px;
     padding: 10px;
     background-color: azure;
@@ -172,16 +171,8 @@ h1.canter-header {
     font-size: 150%;
 }
 
-.fav-color{
-    color:lavenderblush;
-=======
-.button3-aus {
-    border-radius: 40%;
->>>>>>> 18316eea0c30f733a3dcc5214adcec5ecf25c636
+.fav-color {
+    color: lavenderblush;
 }
 
-  .button3-aus {
-      border-radius: 40%;
-  }
 
-/* Roaa's CSS */
