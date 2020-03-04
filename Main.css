@@ -131,12 +131,48 @@
         color: white;
     }
 
-.button3-aus {
-    border-radius: 40%;
+/*Roaa css*/
+.flex-container-roaa {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
 }
 
-  .button3-aus {
-      border-radius: 40%;
-  }
+.flex-container-roaa > div {
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
 
-/* Roaa's CSS */
+.body-roaa {
+    background-color:lightcoral;
+}
+
+.decoration {
+    text-decoration:none;
+}
+
+h1.canter-header {
+    color: gold;
+    text-align: center;
+}
+
+.size {
+    font-size: 300%;
+}
+
+.size2 {
+    font-size: 250%;
+}
+
+.size3 {
+    font-size: 150%;
+}
+
+.fav-color {
+    color: lavenderblush;
+}
+
+
