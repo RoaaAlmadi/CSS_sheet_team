@@ -1,6 +1,64 @@
 
 /* This is the css for the nav bar */
 
+<<<<<<< HEAD
+.flex-container {
+    display: flex;
+    background-color:black;
+    justify-content: space-around;
+}
+.flex-container > div {
+    margin: 10px 0 10px 10px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: azure;
+    font-size: 30px;
+}
+
+/* Gervan's CSS */
+.gervan {
+  font-family: 'Montserrat',sans-serif;
+  font-family: fantasy;
+}
+.gervan_row {
+    text-decoration: none;
+}
+.underline {
+  text-decoration: underline;
+}
+.top-container {
+  background-color: #e4f9f5;
+  margin: 0;
+  text-align: center;
+  border-style: double;
+}
+.mid-container {
+  font-family: cursive;
+  text-align: center;
+}
+  .tables {
+    border-style: groove;
+    background-color: orange;
+  }
+.bottom-container {
+  background-color: cornflowerblue;
+  padding: 20px;
+  text-align: center;
+  border-style: groove;
+  width: 20%;
+  display: inline-block;
+}
+  .button1 {
+      background-color:lightblue;
+      border-color: black;
+      border-radius: 50%;
+      color: darkblue;
+      padding: 10px 10px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+  }
+=======
 .flex-container {
     display: flex;
     background-color:black;
@@ -59,3 +117,4 @@
 .button3-aus {
     border-radius: 40%;
 }
+>>>>>>> b617258a78ace06f24587b0de2a175b90c56a045
